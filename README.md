@@ -12,6 +12,7 @@ This project is used to analyze conversion rate from marketing campaign and incr
 
 #### Extra
 - Engineered new feature
+
 |Feature names|Description|
 |-------------|-----------|
 |Customer Value Index   |Mengukur seberapa besar nilai belanja customer.|
