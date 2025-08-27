@@ -1,7 +1,7 @@
 ## **This is a Project Based Intership supported by Rakamin Academy**
 
 # Overview
-This project is used to analyze conversion rate from marketing campaign and increase performance so that customer would interact more on the company platform
+This project is used to analyze conversion rate from marketing campaign and increase performance so that customer would interact more on the company platform. For the code itself, it's in Indonesian for project purpose
 
 # What is being done
 ### Task 1
@@ -15,17 +15,21 @@ This project is used to analyze conversion rate from marketing campaign and incr
 
 |Feature names|Description|
 |-------------|-----------|
-|Customer Value Index   |Mengukur seberapa besar nilai belanja customer.|
-|Family Size            |Bisa menentukan apakah campaign cocok untuk kebutuhan rumah tangga besar/kecil.|
-|Engagement Score       |Gabungan dari aktivitas belanja & kunjungan.|
-|Recency Segment        |Berapa lama sejak pembelian terakhir.|
-|Income per Capita      |Bisa memengaruhi seberapa responsif mereka terhadap campaign diskon/premium.|
-|Channel Preference     |Dominan belanja di channel apa: Web / Store / Catalog.|
-|Loyalty Indicator      |Banyak ikut campaign sebelumnya.|
-
+|Total Interaction      |Combination of shopping and visit activities.|
+|Conversion Rate        |Percentage of successful campaigns.|
+|Customer Value Index   |Measures the value of customer purchases.|
+|Family Size            |Determines whether a campaign is suitable for large or small households.|
+|Recency Segment        |How long since the last purchase.|
+|Income per Capita      |Can influence how responsive they are to discount/premium campaigns.|
+|Channel Preference     |Dominant shopping channel: Web / Store / Catalog.|
+|Loyalty Indicator      |Number of previous campaign participations.|
+|Tenure                 |How long the customer has had an account.|
 
 ### Task 2
-- *TBC
+- Handle null and duplicate value
+- Drop unnecessary data
+- Feature encoding
+- Standarization
 
 ### Task-n
 - *TBC
