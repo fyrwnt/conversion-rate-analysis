@@ -36,5 +36,12 @@ This project is used to analyze conversion rate from marketing campaign and incr
 - Implement clustering using k-means clustering
 - Calculate the silhouette score to see how the model performs
 
-# Final results
-*TBC
+### Task 4
+- Interpreting the existing cluster results from each feature used
+- Selecting clusters for marketing retargeting
+- Calculating the potential impact of marketing retargeting results from existing clusters
+
+# Final Result
+Cluster 4 should be considered for retargetting, **WHY?**
+- Lots of customer, and it's not niche (402 customer with 1.04 spend rate; cluster 0 and 2 have high spend rate but small customer)
+- Based on previous interpretation, this group haven't been shopping lately so it's recommended to reactivate them by doing campaign
